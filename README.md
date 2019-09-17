@@ -16,7 +16,7 @@ So if I can't put a label on my leadership style, let me share some things I've 
   * learning = ["Understanding humans and this complex organ called the brain", "Learning through others about a problem or technology", "Getting to the root cause of X where X = technical problem, a team collaboration issue, what's actually holding you back on something"]
     
 ### Leadership behaviors - what you can expect from me
-* (Blury) Vision
+* (Blurry) Vision
   * I wouldn't describe myself as a visionary but as I better understand higher-level strategic direction and identify opportunities, I will describe for you where I think we can be down the road. Sometimes "down the road" is only a few months ahead because we're in a state of flux, other times it might be years down the road with where I think we can be after affecting a culture transformation.
   * I'll help break down that vision in to achievable objectives but I expect you to define how to accomplish those objectives.
   * I expect you to be personally responsible for thoroughly understanding our vision, our organization's direction, and the corporate strategy. I will proactively share opportunities to learn more about these strategies and if you tell me you're not completely following, I will  further explain my thoughts, pull senior leadership in to better explain their direction, etc. 
