@@ -31,24 +31,24 @@ So if I can't put a label on my leadership style, let me share some things I've 
     * When this becomes a regular thing with the team, I'll push for an "MVP" approach to all the problems, suggest changes to the "Definition of Done", etc.
   * At some point, there are diminishing levels of value or innovation return on additional effort. I'm here to help find the sweet spot for that effort investment/value return.
 * Curiosity
- * I love learning and solving problems. 
- * I lean on you to help me learn and develop so if I'm asking questions and really digging in to something, understand it's so I can learn through you and I'm not questioning your solution, approach, etc.
+  * I love learning and solving problems. 
+  * I lean on you to help me learn and develop so if I'm asking questions and really digging in to something, understand it's so I can learn through you and I'm not questioning your solution, approach, etc.
 * Authenticity 
- * I'm an open book, ask me anything.
- * I strive for open, honest relationships with everyone I connect with.
- * Transparency
- * Feedback, good and bad.
+  * I'm an open book, ask me anything.
+  * I strive for open, honest relationships with everyone I connect with.
+  * Transparency
+  * Feedback, good and bad.
 * Something about "no problem is someone else's problem" and expecting a solution or being part of chasing a solution when you bring a problem to me. 
  
  
  ### Random observations
  I like to think I'm pretty self-aware about my strengths, weaknesses, tendencies and oddities. Here's some random thoughts about these observations.
  * Lists for everything - organizing thoughts, TO DOs and reminders.
-  * Taking it a step further, I find myself breaking big ideas down and just general mental processing in to ordered lists.
+   * Taking it a step further, I find myself breaking big ideas down and just general mental processing in to ordered lists.
  * Notes FTW
-  * Overlapping with my list tendencies, if I need to remember something, I HAVE to write it down. Not always for future reference but for committing it to this knowledge repo in my head. 
-   * So I may jot down notes while we have our touch-bases. Trust that I'm not multi-tasking and that I'm just getting it inserted in to brain.
+   * Overlapping with my list tendencies, if I need to remember something, I HAVE to write it down. Not always for future reference but for committing it to this knowledge repo in my head. 
+     * So I may jot down notes while we have our touch-bases. Trust that I'm not multi-tasking and that I'm just getting it inserted in to brain.
  * Developer productivity bias
-  * While I've never been a software developer, I've developed an appreciation for developer productivity and am motivated (passionate?) to make software developers' lives better. I think this stems from growing up in a shared services organization that can, at times, feel removed from the people delivering value to our customers.
+   * While I've never been a software developer, I've developed an appreciation for developer productivity and am motivated (passionate?) to make software developers' lives better. I think this stems from growing up in a shared services organization that can, at times, feel removed from the people delivering value to our customers.
  * Logical thinking but struggles to color outside the lines 
-  * If you make a case, I can typically find the rationale behind just about any proposed solution. BUT, I struggle challenging your reasoning (conflict avoidance or just ignorance?). 
+   * If you make a case, I can typically find the rationale behind just about any proposed solution. BUT, I struggle challenging your reasoning (conflict avoidance or just ignorance?). 
