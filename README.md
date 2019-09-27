@@ -2,7 +2,7 @@
 A little bit about leadership style, tactics, opinions, etc. This already feels a little weird.
 
 # Leadership style? 
-When people ask me about my leadership "style," I start to get a little anxious because I can't describe my leaderhsip as a style (i.e. I'm not going to tell you I'm a servant leader and not a transformational leader). Rather, there are certain behaviors and traits that make up Todd Parson as human being and come through in my approach to leadership. 
+When people ask me about my leadership "style," I start to get a little anxious because I can't describe my leaderhsip as a style (i.e. I'm not going to tell you I'm a servant leader and not a transformational leader). Rather, there are certain behaviors and traits that make up Todd Parson as a human being and come through in my approach to leadership. 
 
 # Self-reflection
 So if I can't put a label on my leadership style, let me share some things I've observed in my approach to leading others that you can expect from me as a leader.
@@ -15,7 +15,7 @@ So if I can't put a label on my leadership style, let me share some things I've 
 * Learning
   * learning = ["Understanding humans and this complex organ called the brain", "Learning through others about a problem or technology", "Getting to the root cause of X where X = technical problem, a team collaboration issue, what's actually holding you back on something"]
     
-### Leadership behaviors - what you can expect from me
+### Leadership behaviors and what you can expect from me
 * (Blurry) Vision
   * I wouldn't describe myself as a visionary but as I better understand higher-level strategic direction and identify opportunities, I will describe for you where I think we can be down the road. Sometimes "down the road" is only a few months ahead because we're in a state of flux, other times it might be years down the road with where I think we can be after affecting a culture transformation.
   * I'll help break down that vision in to achievable objectives but I expect you to define how to accomplish those objectives.
@@ -30,3 +30,25 @@ So if I can't put a label on my leadership style, let me share some things I've 
     * For example, I've observed a tendency for engineers to continually pull back the layers of the onion on a complex problem until the problem is solved to perfection. In these scenarios, I will ask "Is this good enough?" along the way or before the next iteration I might ask "What if we spent the time needed to peel the next layer of the onion on a different complex problem?" 
     * When this becomes a regular thing with the team, I'll push for an "MVP" approach to all the problems, suggest changes to the "Definition of Done", etc.
   * At some point, there are diminishing levels of value or innovation return on additional effort. I'm here to help find the sweet spot for that effort investment/value return.
+* Curiosity
+ * I love learning and solving problems. 
+ * I lean on you to help me learn and develop so if I'm asking questions and really digging in to something, understand it's so I can learn through you and I'm not questioning your solution, approach, etc.
+* Authenticity 
+ * I'm an open book, ask me anything.
+ * I strive for open, honest relationships with everyone I connect with.
+ * Transparency
+ * Feedback, good and bad.
+* Something about "no problem is someone else's problem" and expecting a solution or being part of chasing a solution when you bring a problem to me. 
+ 
+ 
+ ### Random observations
+ I like to think I'm pretty self-aware about my strengths, weaknesses, tendencies and oddities. Here's some random thoughts about these observations.
+ * Lists for everything - organizing thoughts, TO DOs and reminders.
+  * Taking it a step further, I find myself breaking big ideas down and just general mental processing in to ordered lists.
+ * Notes FTW
+  * Overlapping with my list tendencies, if I need to remember something, I HAVE to write it down. Not always for future reference but for committing it to this knowledge repo in my head. 
+   * So I may jot down notes while we have our touch-bases. Trust that I'm not multi-tasking and that I'm just getting it inserted in to brain.
+ * Developer productivity bias
+  * While I've never been a software developer, I've developed an appreciation for developer productivity and am motivated (passionate?) to make software developers' lives better. I think this stems from growing up in a shared services organization that can, at times, feel removed from the people delivering value to our customers.
+ * Logical thinking but struggles to color outside the lines 
+  * If you make a case, I can typically find the rationale behind just about any proposed solution. BUT, I struggle challenging your reasoning (conflict avoidance or just ignorance?). 
