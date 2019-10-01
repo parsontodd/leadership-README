@@ -41,7 +41,7 @@ So if I can't put a label on my leadership style, let me share some things I've 
 * Something about "no problem is someone else's problem" and expecting a solution or being part of chasing a solution when you bring a problem to me. 
  
  
- ### Random observations
+ ### Random self observations
  I like to think I'm pretty self-aware about my strengths, weaknesses, tendencies and oddities. Here's some random thoughts about these observations.
  * Lists for everything - organizing thoughts, TO DOs and reminders.
    * Taking it a step further, I find myself breaking big ideas down and just general mental processing in to ordered lists.
@@ -52,3 +52,5 @@ So if I can't put a label on my leadership style, let me share some things I've 
    * While I've never been a software developer, I've developed an appreciation for developer productivity and am motivated (passionate?) to make software developers' lives better. I think this stems from growing up in a shared services organization that can, at times, feel removed from the people delivering value to our customers.
  * Logical thinking but struggles to color outside the lines 
    * If you make a case, I can typically find the rationale behind just about any proposed solution. BUT, I struggle challenging your reasoning (conflict avoidance or just ignorance?). 
+ * Being vulnerable
+   * I'm working on being more vulnerable and trying to make Work Todd as close to Outside-of-Work Todd as possible.
