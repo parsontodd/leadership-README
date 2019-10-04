@@ -35,10 +35,9 @@ So if I can't put a label on my leadership style, let me share some things I've 
   * I lean on you to help me learn and develop so if I'm asking questions and really digging in to something, understand it's so I can learn through you and I'm not questioning your solution, approach, etc.
 * Authenticity 
   * I'm an open book, ask me anything.
-  * I strive for open, honest relationships with everyone I connect with.
+  * I strive for open, honest relationships with everyone.
   * Transparency
   * Feedback, good and bad.
-* Something about "no problem is someone else's problem" and expecting a solution or being part of chasing a solution when you bring a problem to me. 
 
  ### What I expect from you
  * You are responsible for:
@@ -46,10 +45,15 @@ So if I can't put a label on my leadership style, let me share some things I've 
      * Letting me know when you don't understand our strategy/direction.
    * Your own personal growth and development.
      * Letting me know when you need help, resources, etc. for your development.
-   * Hold your teammate accountable.
-   * You drive our 1:1 conversations.
-   * Feedback for me and your teammates.
-   * Passion for learning and problem solving.
+ * Hold your teammate accountable.
+ * 1:1s are your time - you drive the conversation.
+ * Your own self-reflection, at least at quarterly check-in time, to identify strengths and weaknesses.
+ * Feedback for me and your teammates.
+ * No problem is someone else's problem.
+   * If you want to discuss problems, something you're struggling with, roadblocks you're running in to, etc. I'm all for it. BUT I expect you to be a part of the solution(ing). 
+      * Extra credit - Taking the initiative to work through those challenges and get it fixed, especially when others can get value from it (see developer productivity bias below).
+      * Regardless, don't dump and run!
+ * Passion for learning and problem solving.
  
  # Random thoughts and observations
  I like to think I'm pretty self-aware about my strengths, weaknesses, tendencies and oddities. Here's some random thoughts about these observations.
