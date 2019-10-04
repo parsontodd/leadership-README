@@ -39,9 +39,19 @@ So if I can't put a label on my leadership style, let me share some things I've 
   * Transparency
   * Feedback, good and bad.
 * Something about "no problem is someone else's problem" and expecting a solution or being part of chasing a solution when you bring a problem to me. 
+
+ ### What I expect from you
+ * You are responsible for:
+   * Understanding strategy and direction.
+     * Letting me know when you don't understand our strategy/direction.
+   * Your own personal growth and development.
+     * Letting me know when you need help, resources, etc. for your development.
+   * Hold your teammate accountable.
+   * You drive our 1:1 conversations.
+   * Feedback for me and your teammates.
+   * Passion for learning and problem solving.
  
- 
- ### Random self observations
+ # Random thoughts and observations
  I like to think I'm pretty self-aware about my strengths, weaknesses, tendencies and oddities. Here's some random thoughts about these observations.
  * Lists for everything - organizing thoughts, TO DOs and reminders.
    * Taking it a step further, I find myself breaking big ideas down and just general mental processing in to ordered lists.
