@@ -38,6 +38,8 @@ So if I can't put a label on my leadership style, let me share some things I've 
   * I strive for open, honest relationships with everyone.
   * Transparency
   * Feedback, good and bad.
+* I need a trusted, technical partner.
+  * Due to a lack of personal technical depth, I depend on technical engineers to contribute to our direction, challenge assertions, and help me understand what I'm missing. This could be a team of engineers and/or a "partner in crime" trusted advisor.
 
  ### What I expect from you
  * You are responsible for:
@@ -56,15 +58,15 @@ So if I can't put a label on my leadership style, let me share some things I've 
  * Passion for learning and problem solving.
  
  # Random thoughts and observations
- I like to think I'm pretty self-aware about my strengths, weaknesses, tendencies and oddities. Here's some random thoughts about these observations.
+ I like to think I'm pretty self-aware about my strengths, weaknesses, tendencies and oddities. But I also know there's plenty I'm not seeing, so please give me feedback and help me get better! Here are some random thoughts about some of my personal observations.
  * Lists for everything - organizing thoughts, TO DOs and reminders.
    * Taking it a step further, I find myself breaking big ideas down and just general mental processing in to ordered lists.
  * Notes FTW
    * Overlapping with my list tendencies, if I need to remember something, I HAVE to write it down. Not always for future reference but for committing it to this knowledge repo in my head. 
      * So I may jot down notes while we have our touch-bases. Trust that I'm not multi-tasking and that I'm just getting it inserted in to brain.
  * Developer productivity bias
-   * While I've never been a software developer, I've developed an appreciation for developer productivity and am motivated (passionate?) to make software developers' lives better. I think this stems from growing up in a shared services organization that can, at times, feel removed from the people delivering value to our customers.
+   * While I've never been a software developer, I've developed an appreciation for developer productivity and am motivated (passionate?) to make software developers' lives better. IMO, they are the ones delivering business value and I don't think that's recognized enough.
  * Logical thinking but struggles to color outside the lines 
-   * If you make a case, I can typically find the rationale behind just about any proposed solution. BUT, I struggle challenging your reasoning (conflict avoidance or just ignorance?). 
+   * If you give me some supporting evidence (data!) and make a rational case, I can typically get behind most solutions. BUT, on the flipside, I can struggle challenging ideas (conflict avoidance or just ignorance?). 
  * Being vulnerable
    * I'm working on being more vulnerable and trying to make Work Todd as close to Outside-of-Work Todd as possible.
