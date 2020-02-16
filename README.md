@@ -1,8 +1,10 @@
 # ToddParson.README
-A little bit about leadership style, tactics, opinions, etc. This already feels a little awkward.
+This started as a personal goal to spend more time on self-reflection. I decided to focus to focus that self-reflection specifically on my own leadership approach. Finally, I threw in some technical development in learning something about Github. 
+
+See below to better understand my thoughts on leadership, the outcome of my leadership self-reflection, and some expectation setting on both sides of a leader/team relationship.
 
 # Leadership style? 
-When people ask me about my leadership "style," I start to get a little anxious because I can't describe my leaderhsip as a style (i.e. I'm not going to tell you I'm a servant leader, a transformational leader, etc.). Rather than going there, I'd like to share what I believe shapes Todd Parson as a human being that I hope will give you some insight on my leadership. 
+When people ask me about my leadership "style," I start to get a little anxious because I can't describe my leaderhsip as a style (i.e. I'm not going to tell you I'm a servant leader, a transformational leader, etc.). Rather than going there, I'd like to share what I believe to be the role of a leader and what shapes Todd Parson as a human being. This isn't intended to document away good conversation and growing a relationship in-person but hopefully it can help you more quickly understand what's behind the curtain. 
 
 # Self-reflection
 
@@ -16,7 +18,7 @@ When people ask me about my leadership "style," I start to get a little anxious 
 
 ### Roles of a leader
 * People!
-  * Help people be better and do better by facilitating self-reflection and helping them identify growth areas in people, process improvement, and technical skills. 
+  * Help people be better and do better by faI cilitating self-reflection and helping them identify growth areas in people, process improvement, and technical skills. 
     * In a high-performing engineering team, this usually results in challenging engineers to focus their development on the people domain, e.g. communication, influence, and leadership. 
 * Cultivate a culture of action and value delivery
   * Build an environment that enables engineers to quickly respond to customer needs with intuition and action to deliver value.  
@@ -27,7 +29,7 @@ When people ask me about my leadership "style," I start to get a little anxious 
 * Run your business
   * Like running a business, there are some management activities required to ensure long-term success, like human capital planning, budgeting, vendor and asset management, and succession planning.
 
-### Leadership behaviors and what you can expect from me
+### My leadership behaviors and what my team can expect from me
 * (Blurry) Vision
   * I wouldn't describe myself as a visionary but as I better understand higher-level strategic direction and identify opportunities to deliver value, I will describe for you where I think we can be down the road. Sometimes "down the road" is only a few months ahead because our problem domain is chaotic at the moment, other times it might be years down the road with where I think our customers' needs might be going.
   * I'll help break down that vision in to achievable objectives but I expect you to define how to accomplish those objectives.
@@ -54,7 +56,7 @@ When people ask me about my leadership "style," I start to get a little anxious 
 * I need a trusted, technical partner.
   * Due to a lack of personal technical depth, I depend on technical engineers to contribute to our direction, challenge assertions, and help me understand what I'm missing. This could be a team of engineers and/or a "partner in crime" trusted advisor.
 
- ### What I expect from you
+ ### What I expect from members of my team
  * You are responsible for:
    * Understanding strategy and direction.
      * Letting me know when you don't understand our strategy/direction.
@@ -85,3 +87,8 @@ When people ask me about my leadership "style," I start to get a little anxious 
    * Related, if you give me some supporting evidence (data!) and make a rational case, I can typically get behind most solutions but because I don't always trust my intuition, I may struggle to challenge you in unfamiliar domains.   
  * Being vulnerable
    * I'm working on being more open and vulnerable in an effort to make Work Todd and Outside-of-Work Todd one in the same.
+
+# Quotes and quips
+  * Be grateful but never satisfied.
+  * Help people find their intersection of passion and value delivery.
+  * Nothing is someone else's problem.
