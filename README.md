@@ -1,30 +1,43 @@
 # ToddParson.README
-A little bit about leadership style, tactics, opinions, etc. This already feels a little weird.
+A little bit about leadership style, tactics, opinions, etc. This already feels a little awkward.
 
 # Leadership style? 
-When people ask me about my leadership "style," I start to get a little anxious because I can't describe my leaderhsip as a style (i.e. I'm not going to tell you I'm a servant leader and not a transformational leader). Rather, there are certain behaviors and traits that make up Todd Parson as a human being and come through in my approach to leadership. 
+When people ask me about my leadership "style," I start to get a little anxious because I can't describe my leaderhsip as a style (i.e. I'm not going to tell you I'm a servant leader, a transformational leader, etc.). Rather than going there, I'd like to share what I believe shapes Todd Parson as a human being that I hope will give you some insight on my leadership. 
 
 # Self-reflection
-So if I can't put a label on my leadership style, let me share some things I've observed in my approach to leading others that you can expect from me as a leader.
 
 ### What motivates me?
 * Having an impact
-  * impact = ["Helping people grow as humans, engineers, and teammates", "Affecting positive change in my team, department, organization", "Doing good things the right way"]
+  * impact = ["Helping people grow as humans, engineers, and teammates", "Affecting positive change in my team, department, organization", "Doing good things the right way", "Delivering meaninful value"]
 * Change
   * change = ["Constantly seeking changes in people, process, technology to keep me engaged (or I'll get bored)", "Helping others embrace change", "Affecting change, especially where change is hard"]
 * Learning
   * learning = ["Understanding humans and this complex organ called the brain", "Learning through others about a problem or technology", "Getting to the root cause of X where X = technical problem, a team collaboration issue, what's actually holding you back on something"]
-    
+
+### Roles of a leader
+* People!
+  * Help people be better and do better by facilitating self-reflection and helping them identify growth areas in people, process improvement, and technical skills. 
+    * In a high-performing engineering team, this usually results in challenging engineers to focus their development on the people domain, e.g. communication, influence, and leadership. 
+* Cultivate a culture of action and value delivery
+  * Build an environment that enables engineers to quickly respond to customer needs with intuition and action to deliver value.  
+* Visionary
+  * Think two steps ahead, be transparent with your team and stakeholders about what you see in that crystal ball, and listen to the reactions. 
+* Direction
+  * Translate your vision to action, inspire the team, and empower them to execute.
+* Run your business
+  * Like running a business, there are some management activities required to ensure long-term success, like human capital planning, budgeting, vendor and asset management, and succession planning.
+
 ### Leadership behaviors and what you can expect from me
 * (Blurry) Vision
-  * I wouldn't describe myself as a visionary but as I better understand higher-level strategic direction and identify opportunities, I will describe for you where I think we can be down the road. Sometimes "down the road" is only a few months ahead because we're in a state of flux, other times it might be years down the road with where I think we can be after affecting a culture transformation.
+  * I wouldn't describe myself as a visionary but as I better understand higher-level strategic direction and identify opportunities to deliver value, I will describe for you where I think we can be down the road. Sometimes "down the road" is only a few months ahead because our problem domain is chaotic at the moment, other times it might be years down the road with where I think our customers' needs might be going.
   * I'll help break down that vision in to achievable objectives but I expect you to define how to accomplish those objectives.
-  * I expect you to be personally responsible for thoroughly understanding our vision, our organization's direction, and the corporate strategy. I will proactively share opportunities to learn more about these strategies and if you tell me you're not completely following, I will  further explain my thoughts, pull senior leadership in to better explain their direction, etc. 
+  * I expect you to be personally responsible for thoroughly understanding our vision, our organization's direction, and the corporate strategy. 
+    * I will proactively share opportunities to learn more about these strategies and if you tell me you're not completely following, I will do my best to close the understanding gap. 
 * Getting you out of your comfort zone!
   * From a personal development perspective, this is my #1 objective. I will never let you settle and will constantly challenge you to get out of your comfort zone. 
     * Good at Powershell? Use Python next time. 
-    * Proficient at the technologies used for this problem? Raise the bar (i.e. novice --> intermedieat). 
-    * Strong technical aptitude so technical profiency in any given problem domain won't be a challenge? Set technical development aside and put all development efforts in to soft skills (e.g. written communications, influencing others, etc.).
+    * Proficient at the technologies used for this problem? Raise the bar (i.e. novice --> intermediate). 
+    * Strong technical skills and aptitude? Set technical development aside and put all development efforts in to soft skills (e.g. written communications, influencing others, etc.).
 * Eye on your derailers
   * Teams and individuals typically have some blinders or derailers that if unaddressed, could send us down a never-ending rabbit hole and impact the value we're able to deliver. I'm here to bring that blinder to the forefront. 
     * For example, I've observed a tendency for engineers to continually pull back the layers of the onion on a complex problem until the problem is solved to perfection. In these scenarios, I will ask "Is this good enough?" along the way or before the next iteration I might ask "What if we spent the time needed to peel the next layer of the onion on a different complex problem?" 
@@ -65,8 +78,10 @@ So if I can't put a label on my leadership style, let me share some things I've 
    * Overlapping with my list tendencies, if I need to remember something, I HAVE to write it down. Not always for future reference but for committing it to this knowledge repo in my head. 
      * So I may jot down notes while we have our touch-bases. Trust that I'm not multi-tasking and that I'm just getting it inserted in to brain.
  * Developer productivity bias
-   * While I've never been a software developer, I've developed an appreciation for developer productivity and am motivated (passionate?) to make software developers' lives better. IMO, they are the ones delivering business value and I don't think that's recognized enough.
- * Logical thinking but struggles to color outside the lines 
-   * If you give me some supporting evidence (data!) and make a rational case, I can typically get behind most solutions. BUT, on the flipside, I can struggle challenging ideas (conflict avoidance or just ignorance?). 
+   * While I've never been in a formal software engineer role, I've developed an appreciation for developer productivity and am motivated (passionate?) to make software developers' lives better. IMO, software engineers are the ones delivering business value and I don't think that's appreciated enough.
+     * This could also be related to providing a software developer productivity service inside of an infrastructure organization where I felt an obligation to advocate for optimizing for software delivery vs. infrastructure cost efficiency.
+ * Logical thinker
+   * I have a bias towards logical reasoning and don't always trust my intuition. Getting more exposure to more problem domains is helping me better trust my intuition but I'm still more comfortable when I can get as much context, data, etc. as possible. 
+   * Related, if you give me some supporting evidence (data!) and make a rational case, I can typically get behind most solutions but because I don't always trust my intuition, I may struggle to challenge you in unfamiliar domains.   
  * Being vulnerable
-   * I'm working on being more vulnerable and trying to make Work Todd as close to Outside-of-Work Todd as possible.
+   * I'm working on being more open and vulnerable in an effort to make Work Todd and Outside-of-Work Todd one in the same.
