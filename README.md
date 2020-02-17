@@ -1,7 +1,7 @@
 # ToddParson.README
-This started as a personal goal to spend more time on self-reflection. I decided to focus to focus that self-reflection specifically on my own leadership approach. Finally, I threw in some technical development in learning something about Github. 
+This started as a personal goal to improve self-reflection and vulnerability. I decided to focus to focus specifically on my own leadership approach. Finally, I threw in some technical development in learning something about Github. 
 
-See below to better understand my thoughts on leadership, the outcome of my leadership self-reflection, and some expectation setting on both sides of a leader/team relationship.
+Said vulnerability below. Read on to better understand my thoughts on leadership, the outcome of my leadership self-reflection, and some expectation setting on both sides of a leader/team relationship.
 
 # Leadership style? 
 When people ask me about my leadership "style," I start to get a little anxious because I can't describe my leaderhsip as a style (i.e. I'm not going to tell you I'm a servant leader, a transformational leader, etc.). Rather than going there, I'd like to share what I believe to be the role of a leader and what shapes Todd Parson as a human being. This isn't intended to document away good conversation and growing a relationship in-person but hopefully it can help you more quickly understand what's behind the curtain. 
@@ -26,6 +26,9 @@ When people ask me about my leadership "style," I start to get a little anxious 
   * Think two steps ahead, be transparent with your team and stakeholders about what you see in that crystal ball, and listen to the reactions. 
 * Direction
   * Translate your vision to action, inspire the team, and empower them to execute.
+* Traffic cop
+  * Maybe a bit of a nuance in how I see the role of a leader but I strive to shield my team from the crap work that provides little value while ensuring the biggest opportunities to provide value (and most engaging, complex problems) are theirs to own. Kind of like a traffic cop on one of those airport moving walkways - divert the big bags in the middle of a long layover away from the walkway and get the right bags that need to get somewhere quickly on the moving walkway. 
+    * Oh and at the end of the walkway, make sure there's recognition the team helped get them where they needed to be.
 * Run your business
   * Like running a business, there are some management activities required to ensure long-term success, like human capital planning, budgeting, vendor and asset management, and succession planning.
 
