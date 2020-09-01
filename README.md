@@ -95,5 +95,6 @@ When people ask me about my leadership "style," I start to get a little anxious 
 
 # Quotes and quips
   * Be grateful but never satisfied.
-  * Help people find their intersection of passion and value delivery.
-  * Nothing is someone else's problem.
+  * Leadership is about helping people find their intersection of passion, talent, and value.
+  * No problem is someone else's problem.
+  * Think big, start small, go fast.
